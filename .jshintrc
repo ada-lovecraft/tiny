@@ -1,0 +1,9 @@
+{
+    "passfail": true,
+    "browser": true,
+    "strict": false,
+    "globalstrict": false,
+    "globals": {
+        "window": true
+    }
+}
